@@ -1,0 +1,6 @@
+<res>
+   <item name="res/share/bg.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="res/share/bgzhong.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="res/share/dingbutiao.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="res/share/dingbutiaozhong.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+</res>
