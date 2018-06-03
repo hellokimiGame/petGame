@@ -32515,7 +32515,7 @@ declare module laya.wx.mini {
          * @param isPosMsg 是否需要在主域中自动将加载的文本数据自动传递到子域，默认 false
          * @param isSon 是否是子域，默认为false
          */
-        static init(isPosMsg?:boolean,isSon?:string): void;
+        static init(isPosMsg?:boolean,isSon?:boolean): void;
     }
 }
 
